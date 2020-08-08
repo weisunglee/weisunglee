@@ -1,5 +1,5 @@
 ### Hey there 👋
-I'm a software engineer in Taiwan, it's been over ten years since I first started learning programming languages. I'm happy to share what I know with my friends.:heart:
+I'm a software engineer in Taiwan, it's been over ten years since I first started learning programming languages. I'm happy to share what I know with you.:heart:
 
 ---
 
