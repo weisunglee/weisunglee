@@ -1,12 +1,12 @@
 ### Hey there 👋
 I'm a software engineer in Taiwan, it's been over ten years since I first started learning programming languages. Most of the source code belongs to the company so it can't be published, but I'm happy to share what I know with my friends.:heart:
 
-### Check my articles <img align="right" src="https://raw.githubusercontent.com/weisunglee/weisunglee/master/coding.gif" alt="Programmation" width="200" />
+### Check my articles :mag: <img align="right" src="https://raw.githubusercontent.com/weisunglee/weisunglee/master/coding.gif" alt="Programmation" width="200" />
 
-:notebook: https://hackmd.io/@vincentlee
+:blue_book: https://hackmd.io/@vincentlee
 
 ---
-### Languages I have used
+### Languages I have used ✨
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![C#](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=C-Sharp)
@@ -17,7 +17,7 @@ I'm a software engineer in Taiwan, it's been over ten years since I first starte
 
 ---
 
-### Get in touch
+### Get in touch 💬
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vincent_lee_tw)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weisunglee@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-lee-b81600139/)
