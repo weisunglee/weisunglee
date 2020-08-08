@@ -1,11 +1,9 @@
-![](https://raw.githubusercontent.com/weisunglee/weisunglee/master/coding.gif)
-
 ### Hey there 👋
 I'm a software engineer in Taiwan, it's been over ten years since I first started learning programming languages. Most of the source code belongs to the company so it can't be published, but I'm happy to share what I know with my friends.:heart:
 
-### Check my articles
-:notebook: https://hackmd.io/@vincentlee
+### Check my articles <img align="right" src="https://raw.githubusercontent.com/weisunglee/weisunglee/master/coding.gif" alt="Programmation" width="200" />
 
+:notebook: https://hackmd.io/@vincentlee
 
 ---
 ### Languages I have used
