@@ -7,8 +7,6 @@ I'm a software engineer in Taiwan, it's been over ten years since I first starte
 
 :blue_book: https://hackmd.io/@vincentlee
 
----
-
 ### Languages I have used recently ✨
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
