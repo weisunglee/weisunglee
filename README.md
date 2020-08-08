@@ -1,5 +1,9 @@
-### Hi there 👋
-[!](https://github.com/weisunglee/weisunglee/blob/master/coding.gif)
+![](https://raw.githubusercontent.com/weisunglee/weisunglee/master/coding.gif)
+
+### Hey there 👋
+I'm a software engineer in Taiwan, it's been over ten years since I first started learning programming languages. Most of the code belongs to the company so it can't be published, but I'm happy to share what I know with my friends.:heart: 
+
+---
 
 <!--
 **weisunglee/weisunglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
