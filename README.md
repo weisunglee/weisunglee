@@ -1,17 +1,22 @@
 ### Hey there 👋
 I'm a software engineer in Taiwan, it's been over ten years since I first started learning programming languages. I'm happy to share what I know with my friends.:heart:
 
+---
+
 ### Check my articles :mag: <img align="right" src="https://raw.githubusercontent.com/weisunglee/weisunglee/master/coding.gif" alt="Programmation" width="200" />
 
 :blue_book: https://hackmd.io/@vincentlee
 
 ---
+
 ### Languages I have used recently ✨
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust)
+
+<img align="left" src="https://raw.githubusercontent.com/weisunglee/weisunglee/master/cpp.gif" alt="Programmation" />
 
 ---
 
